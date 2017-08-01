@@ -9,3 +9,6 @@ xzzczxc *xz*
 ...
 git status
 ...
+
+1. Add index.html
+2. about.html
